@@ -44,9 +44,9 @@
 
 ```ini
 [Rule]
-RULE-SET,https://raw.githubusercontent.com/ericecchou/surge/master/Rule/CEX.list,Proxy
-RULE-SET,https://raw.githubusercontent.com/ericecchou/surge/master/Rule/Web3.list,Proxy
-RULE-SET,https://raw.githubusercontent.com/ericecchou/surge/master/Rule/Bus.list,Proxy
+RULE-SET,https://raw.githubusercontent.com/zhoulianglen/surge/master/Rule/CEX.list,Proxy
+RULE-SET,https://raw.githubusercontent.com/zhoulianglen/surge/master/Rule/Web3.list,Proxy
+RULE-SET,https://raw.githubusercontent.com/zhoulianglen/surge/master/Rule/Bus.list,Proxy
 ```
 
 将 `Proxy` 替换为你实际使用的策略组名称。
